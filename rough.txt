@@ -2,3 +2,5 @@
 git branch
 git checkout
 git merge
+// git fetch
+// git pull
